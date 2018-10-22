@@ -9,6 +9,6 @@ public class MainCar {
 		
 		System.out.println(carOne.totalInterest());
 		
-	}
 
+	}
 }
